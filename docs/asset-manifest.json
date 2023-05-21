@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rooftop/static/css/main.e6c13ad2.css",
+    "main.js": "/rooftop/static/js/main.1a172b7b.js",
+    "static/js/787.4b5ee152.chunk.js": "/rooftop/static/js/787.4b5ee152.chunk.js",
+    "index.html": "/rooftop/index.html",
+    "main.e6c13ad2.css.map": "/rooftop/static/css/main.e6c13ad2.css.map",
+    "main.1a172b7b.js.map": "/rooftop/static/js/main.1a172b7b.js.map",
+    "787.4b5ee152.chunk.js.map": "/rooftop/static/js/787.4b5ee152.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1a172b7b.js"
+  ]
+}
